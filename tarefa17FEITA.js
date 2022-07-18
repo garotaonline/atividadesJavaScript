@@ -1,4 +1,4 @@
-// 17) Um funcionário irá receber um aumento de acordo com o seu plano de
+// Um funcionário irá receber um aumento de acordo com o seu plano de
 // trabalho, de acordo com a tabela abaixo:
 // Plano Aumento
 // A 10%

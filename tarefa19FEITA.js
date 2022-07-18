@@ -1,4 +1,4 @@
-// 19) O cardápio de uma lanchonete é o seguinte:
+// O cardápio de uma lanchonete é o seguinte:
 // Código Descrição do Produto Preço
 // 100 Cachorro Quente R$ 3,00
 // 200 Hambúrguer Simples R$ 4,00
